@@ -1,5 +1,6 @@
-First
-Second
-bug edit
-new change
-change to test pull from remote master to local master.
+First.
+Second.
+bug edit.
+new change.
+change to test pull from remote master to local master.Change on remote/master.
+Change on remote/master.
